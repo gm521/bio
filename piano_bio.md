@@ -1,6 +1,6 @@
  # 11 years old <br>
 - Began piano lessons <br>
-# 12-13 years old (sorry for lack of details, very foggy memory of these years) <br>
+# 12-13 years old <br>
 - Learned about accidentals (I struggled with this the most) <br>
 - Had lots of essential beginner lessons<br>
 - Discovered and fell in love with classical music <br>
