@@ -18,7 +18,7 @@
 - discovered DEBUG.EXE, somehow knew the existence of the mov instruction with no prior education on assembly <br>
 - somehow knew it was assembly language, (Maybe when I was younger than 13 I found out about assembly but forgot?) <br>
 - taught myself 8086 assembly and logic gates <br>
-- learned to write x86 assembly programs with both DEBUG.EXE, MASM, and NASM <br>
+- learned to write x86 assembly programs with DEBUG.EXE, MASM, and NASM <br>
 - Made my own commands with 8086 assembly (mostly used int 21h but occasionally 10h, 16h, and 33h) <br>
 - also made a walking simulator (text based with ansi escape codes for color via ANSI.SYS) <br>
 - made a duck game (graphics screen mode 13h)  in debug.exe <br>
