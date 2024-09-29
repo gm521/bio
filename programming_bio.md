@@ -23,6 +23,7 @@
 - also made a walking simulator (text based with ansi escape codes for color via ANSI.SYS) <br>
 - made a duck game (graphics screen mode 13h)  in debug.exe <br>
 - this was also the year I started the development of my video game "The Island" and developed 3 different discord bots for my friends
+(the discord bots came out decent, I was trying my best to follow the discord.js guide website while using what I already knew of javascript)
 # 14 years old <br>
 - taught myself circuitry, the process of photolithography, and more about boolean algebra <br>
 - taught myself the parts of a CPU architecture (ALU, control unit, clock, ect.) (but already knew about registers) <br>
