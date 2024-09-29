@@ -15,6 +15,7 @@
 # 13 years old <br>
 - taught myself lua, and how to use linux and write bash scripts<br>
 - started taking robotics at a summer school for kids that took place at a college campus <br>
+- learned C (actual C not C++)
 - discovered DEBUG.EXE, somehow knew the existence of the mov instruction with no prior education on assembly <br>
 - somehow knew it was assembly language, (Maybe when I was younger than 13 I found out about assembly but forgot?) <br>
 - taught myself 8086 assembly and logic gates <br>
