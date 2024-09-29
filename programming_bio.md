@@ -13,7 +13,7 @@
 - caught onto javascript syntax and started teaching myself <br>
 - discovered QBASIC on our windows 98, coded some text based and graphics based RPG games <br>
 # 13 years old <br>
-- taught myself lua <br>
+- taught myself lua, and how to use linux and write bash scripts<br>
 - started taking robotics at a summer school for kids that took place at a college campus <br>
 - discovered DEBUG.EXE, somehow knew the existence of the mov instruction with no prior education on assembly <br>
 - somehow knew it was assembly language, (Maybe when I was younger than 13 I found out about assembly but forgot?) <br>
@@ -32,6 +32,9 @@
 # 15 years old <br>
 - learned python and rust<br>
 - didnt know about half subtractors but accidentally reinvented the same exact design they use by looking at the XOR truth table <br>
+- learned php and mysql
+- wrote a chat website called light switch (ran on a LAMP server and the php based API for the site could interact with MySQL)
+(light switch was discontinued because it got deleted and the only backup was super old, bad habit of rarely backing up my code)
 # 16 years old <br>
 - finally made a full adder, and an 8-bit adder, and the subtractor counterparts from the algebraic function from before <br>
 - remade the duck game I made in DEBUG.EXE at 13 in MASM instead (with way better performance and data efficiency too)
