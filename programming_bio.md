@@ -39,5 +39,6 @@
 # 16 years old <br>
 - finally made a full adder, and an 8-bit adder, and the subtractor counterparts from the algebraic function from before <br>
 - remade the duck game I made in DEBUG.EXE at 13 in MASM instead (with way better performance and data efficiency too)
+- read a university paper on raycasting
 - lots of side projects now scrapped
 - learned OpenGL
