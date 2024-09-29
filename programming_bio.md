@@ -9,7 +9,7 @@
 - messed with visual basic on microsoft word <br>
 - (attempted) to make lots of unity games that were utter garbage
 (the 3d models were made in 3d ms paint and the microsoft 3d builder)
-# 12 years old <br>
+# 12-13 years old <br>
 - caught onto javascript syntax and started teaching myself <br>
 - discovered QBASIC on our windows 98, coded some text based and graphics based RPG games <br>
 # 13 years old <br>
