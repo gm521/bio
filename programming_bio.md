@@ -30,7 +30,7 @@
 - turned the half adder into an algebraic function, f(x,y)=10xy+(x+y-2xy), but failed to make a full adder <br>
 - attempted to make a BIOS and operating system for the arduino ("Crystal OS") <br>
 # 15 years old <br>
-- learned python and rust <br>
+- learned python and rust (I personally love how I learned the least complicated languages last)<br>
 - didnt know about half subtractors but accidentally reinvented the same exact design they use by looking at the XOR truth table <br>
 # 16 years old <br>
 - finally made a full adder, and an 8-bit adder, and the subtractor counterparts from the algebraic function from before <br>
