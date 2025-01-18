@@ -20,3 +20,5 @@
 - Sight read more La Campanella
 - Started working on my own piano arrangement based on my interpretation of Vivaldi's original violin concertos The Four Seasons
 - More Liszt-Paganini etudes and another transcendental etude (transcendental etude no. 12 and liszt-paganini etude 1, and 5)
+- 2025 new years resolution to practice more chopin etudes has begun
+- started learning more classical era pieces like Beethoven's pathetique sonata op 13 no 8
