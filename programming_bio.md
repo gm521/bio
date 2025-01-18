@@ -1,5 +1,5 @@
 # 9 years old <br>
-- made really crappy scratch games <br>
+- made scratch games <br>
 - owned a programming schoolastic book <br>
 - did lots of minecraft commands <br>
 - taught myself batch script and made short games using batch <br>
