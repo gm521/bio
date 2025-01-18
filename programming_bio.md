@@ -42,4 +42,5 @@
 - remade the duck game I made in DEBUG.EXE at 13 in MASM instead (with way better performance and data efficiency too)
 - read a university paper on raycasting
 - learned OpenGL
+- started making my own DOS executive called Seashell
 - more projects to come
