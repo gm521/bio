@@ -14,6 +14,7 @@
 - discovered QBASIC on our windows 98, coded some text based and graphics based RPG games <br>
 # 13 years old <br>
 - taught myself lua, and how to use linux and write bash scripts<br>
+- about this point i was using linux and node.js and using gnu nano to code everything
 - started taking robotics at a summer school for kids that took place at a college campus <br>
 - learned C (actual C not C++)
 - discovered DEBUG.EXE, somehow knew the existence of the mov instruction with no prior education on assembly <br>
@@ -37,10 +38,12 @@
 - learned php and mysql
 - wrote a chat website called light switch (ran on a LAMP server and the php based API for the site could interact with MySQL)
 (light switch was discontinued because it got deleted and the only backup was super old, bad habit of rarely backing up my code)
+- about the point i regularly practice every language i know, and am about 4/5ths of a seasoned programmer
+- also the point where I basically code as a 2nd language, semi advanced, around intermediate in all languages
+- ALSO the point where I could code literally anything I want to
 # 16 years old <br>
 - finally made a full adder, and an 8-bit adder, and the subtractor counterparts from the algebraic function from before <br>
 - remade the duck game I made in DEBUG.EXE at 13 in MASM instead (with way better performance and data efficiency too)
 - read a university paper on raycasting
 - learned OpenGL
-- started making my own DOS executive called Seashell
-- more projects to come
+- started making my own DOS executive / graphical operating system / DOS wrapper called Seashell
