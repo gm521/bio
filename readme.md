@@ -22,13 +22,14 @@
 # 14 years old <br>
 - Taught myself how to build electronic circuits
 - Learned the process of photolithography<br>
+- Learned 6502 and Harvard architecture assembly
 - Recited the parts of a CPU architecture (ALU, control unit, clock, ect.)<br>
 - Turned the half adder into an algebraic function, f(x,y)=10xy+(x+y-2xy)<br>
 - Founded the idea of, and started developing an operating system for the arduino ("Crystal OS") <br>
 # 15 years old <br>
 - Learned Python and Rust<br>
 - Learned PHP and MySQL
-- wrote a chat website called Light Switch (ran on a LAMP server)
+- Wrote a chat website called Light Switch (ran on a LAMP server)
 # 16 years old <br>
 - finally made a full adder, and an 8-bit adder, and the subtractor counterparts from the algebraic function from before <br>
 - Remade the duck game I made in DEBUG.EXE at 13 in MASM instead (With improved performance, and 4bpp sprites)
