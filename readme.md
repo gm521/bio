@@ -5,10 +5,10 @@
 # 10-11 years old <br>
 - Learned JavaScript from w3schools.com <br>
 - Learned C++ <br>
-- used Visual Basic on microsoft word<br>
+- used Visual Basic on Microsoft Word<br>
 - Learned C# and Unity API
 # 12-13 years old <br>
-- Started to teaching myself JavaScript<br>
+- Started teaching myself JavaScript<br>
 - discovered QBASIC on windows 98, Wrote some text and graphics based RPG games <br>
 # 13 years old <br>
 - Taught myself Lua
